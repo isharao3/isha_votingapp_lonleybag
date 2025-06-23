@@ -30,3 +30,12 @@
 [I dont want to create an ec2 instance because I dont want to put my card details even for free tier. I have previously created aks in azure and run the same docker voting app as a kubernetes application on there]
 
 ## Results
+
+Vote
+
+![voting-vote](https://github.com/user-attachments/assets/5aefabbe-ce8c-483f-ab43-0feb7b1ab013)
+
+Result
+
+![voting-result](https://github.com/user-attachments/assets/25464ae8-a045-444d-a3d9-43437c5696f0)
+
